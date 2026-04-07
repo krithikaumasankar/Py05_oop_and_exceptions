@@ -1,4 +1,4 @@
-#EB 
+#EB BILL CALCULATOR
 class EB:
     def __init__(self):
         print("\n\tEB BILL CALCULATOR...!")
